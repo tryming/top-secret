@@ -7,7 +7,7 @@ Small python library for getting secret from various places like environment var
 # Installation
 
 ```bash
-pip install git+https://github.com/jroslaniec/top-secret@0.1.0#egg=top_secret
+pip install git+https://github.com/tryming/top-secret@0.1.0#egg=top_secret
 ```
 
 # Motivation
